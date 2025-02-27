@@ -1,11 +1,11 @@
-# HelloWorld
+# Hola_Mundo
 The beginning of this path of 1000 micro-apps
 
 
-public class HolaMundo:
+public class Hola_Mundo:
 
 En Java, todo el código debe estar dentro de una clase.
-HolaMundo es el nombre de la clase (puede tener otro nombre, pero debe coincidir con el nombre del archivo).
+Hola_Mundo es el nombre de la clase (puede tener otro nombre, pero debe coincidir con el nombre del archivo).
 
 public static void main(String[] args):
 
